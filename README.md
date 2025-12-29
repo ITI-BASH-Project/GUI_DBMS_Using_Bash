@@ -82,20 +82,20 @@ chmod +x dbms.sh
 ---
 
 
-##💡 Install Zenity
+💡 **Install Zenity**
 
-Check your Linux distribution and install Zenity:
+*Check your Linux distribution and install Zenity:*
 
-Ubuntu / Debian:
-
+**Ubuntu / Debian:**
+```bash
 sudo apt update
 sudo apt install zenity
+```
 
-
-CentOS / RHEL / Fedora:
-
+**CentOS / RHEL / Fedora:**
+```bash
 sudo yum install zenity
-
+```
 ---
 
 ## 🧪 Sample Flow
